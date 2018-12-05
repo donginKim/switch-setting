@@ -22,7 +22,7 @@ Abort Power On Auto Provisioning [yes - continue with normal setup, skip - bypas
 
 Disabling POAP……
 
-### Do you want to enforce secure password standard (yes/no): yes
+**Do you want to enforce secure password standard (yes/no): yes**
 
 Enter the password for "admin":
 
